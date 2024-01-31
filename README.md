@@ -1,7 +1,7 @@
 # ConversationalIST - Android App
 
 
-"Mobile and Ubiquitous Computing" MSc group project. Goal: develop a mobile application using Android Studio.
+"Mobile and Ubiquitous Computing" MSc course group project. Goal: develop a mobile application using Android Studio.
 
 This non-trivial application explores several key aspects of mobile development, including location awareness, judicious use of limited resources, and social behavior.
 
